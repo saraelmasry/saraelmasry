@@ -2,7 +2,7 @@
  ![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 ### I’m an Android developer  :octocat:
 
-- 🔭 I’m currently working on be an android developer certified by google
+- 🔭 I’m currently working on being an android developer certified by google
 
 - 🌱 I’m currently learning KOTLIN
 
