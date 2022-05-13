@@ -1,7 +1,10 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saraelmasry&label=Profile%20views&color=0e75b6&style=flat" alt="saraelmasry" /> </p> 
+
 ### Hi there, i’m Sara 👋 
- ![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 ### I’m an Android developer  :octocat:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saraelmasry&label=Profile%20views&color=0e75b6&style=flat" alt="saraelmasry" /> </p>
+<img    src="https://octodex.github.com/images/mona-the-rivetertocat.png"  width="400" height="400" > 
+
+
 
 - 🌱 I’m currently learning KOTLIN
 -  <h3 align="left">Connect with me:</h3>
